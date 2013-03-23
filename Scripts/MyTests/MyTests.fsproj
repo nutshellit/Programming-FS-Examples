@@ -41,8 +41,8 @@
     <Compile Include="FsUnitSample.fs" />
     <Compile Include="Ch1.fs" />
     <Compile Include="Ch1Fixtures.fs" />
-    <Compile Include="ch2.fs" />
     <Compile Include="Ch2_Module.fs" />
+    <Compile Include="ch2.fs" />
     <Compile Include="ch2Fixtures.fs" />
   </ItemGroup>
   <ItemGroup>
